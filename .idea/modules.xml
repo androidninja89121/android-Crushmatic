@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Crushmatic.iml" filepath="$PROJECT_DIR$/Crushmatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aAALibV4/aAALibV4.iml" filepath="$PROJECT_DIR$/aAALibV4/aAALibV4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock_/actionbarsherlock_.iml" filepath="$PROJECT_DIR$/actionbarsherlock_/actionbarsherlock_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crushmatic/crushmatic.iml" filepath="$PROJECT_DIR$/crushmatic/crushmatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rangeBar/rangeBar.iml" filepath="$PROJECT_DIR$/rangeBar/rangeBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekArc_library/seekArc_library.iml" filepath="$PROJECT_DIR$/seekArc_library/seekArc_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slide_menu_library/slide_menu_library.iml" filepath="$PROJECT_DIR$/slide_menu_library/slide_menu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomimage/zoomimage.iml" filepath="$PROJECT_DIR$/zoomimage/zoomimage.iml" />
+    </modules>
+  </component>
+</project>

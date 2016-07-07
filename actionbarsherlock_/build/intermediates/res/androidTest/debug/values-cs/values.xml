@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Tinder_Final/Surendar_Tinder/Crushmatic/Crushmatic/actionbarsherlock_/build/intermediates/exploded-aar/Crushmatic/library/unspecified/res/values-cs/values.xml -->
+    <eat-comment/>
+    <string name="pull_to_refresh_pull_label">Tažením aktualizujete…</string>
+    <string name="pull_to_refresh_refreshing_label">Načítání…</string>
+    <string name="pull_to_refresh_release_label">Uvolněním aktualizujete…</string>
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\PayPalAndroidSDK.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6c554f826f29adedf9a4b9683da8b95fd5babc5">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\PayPalAndroidSDK-c6686530111e8fd2bfa2ae6084f3ff0282f32555.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\asmack-android-8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7495103d4c8c6ca44abc11bf84a3f46ba0580f90">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\asmack-android-8-597294827129613546568a3e834ea778b7e152cf.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\rangeBar\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b014fbeef0727dd9bb934cf8c02a3c1651e0a9ac">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-3fcb9f410cc1beea8cc1c368d1696e4769aeb2be.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\seekArc_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adb9fe45f486b2f1055db68170d3a4dbade8853a">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-3d9470437be55af32a9eec9fa07e237e4b7a5aee.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\facebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d57ee95499638433ea05afe99d3e266b2c1feedf">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-bdb61433818100aa747189613f6f428323ddbefb.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\actionbarsherlock_\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1031aee03eefc2fa85fd6e0ebf8e8582c75e767">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-4df440b1153b374e0f3c16a9f310a873ae3cf9a8.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\picasso-2.1.1-a7191ecc76a12fd664514f8805819fb8da871ee8.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\android-query.0.25.10.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60258ce3d38031f3e2ab3afeb38c65f3516fe5a">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\android-query.0.25.10-c7a5932d45035e60fdbb961d61d9d2457f609b15.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-c88255eeca0edaa12e276290bdf8c794347fb141.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\commons-codec-1.4-e9b77454f22a0c3e9309c6ffec993f9f1be5ac93.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-d2f37a8a8499c0647237a876f6509cfa5ca6d82f.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\eventbus-2.1.0-beta-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2366ea893abc1de2c08bc3780206515d1c4fc785">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\eventbus-2.1.0-beta-1-ce8873a0ff339c69df1a363e5c577ada3689c366.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.1\8f79e353ef77da6710e1f10d34fc3698eaaacbca\joda-time-2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f79e353ef77da6710e1f10d34fc3698eaaacbca">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\joda-time-2.1-d57e058590530456703bf24447d73d0f4cf0fc85.jar" />
+    </item>
+    <item
+        jar="D:\HK-adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-df60974b5016aec0b8bec4353f810db108cb93cf.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d97e400d31bbeb36c1c60d2c3a9bbf2cdccf85a8">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\httpmime-4.1.3-4d732561ccf709ab0fbae6c4804af16abeaa0839.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\slide_menu_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98cf7b592bd18e2d0e6d7abcd32da68afe27bb87">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-cf3150ded618f73aa7698b6b5fd8dbe80156971a.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-d571bf4bd6eaf9b6ecb59ce74b73baac3bb3a2e2.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="463062afff324c2fc3dfad9c9364c4369f5294c6">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-ebbeceefd228d8dd1dc495c12feb090b08619517.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9580084373616138303258b46ef8295e30e9e64c.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\zoomimage\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd4a0c1137bbd211d908f0013e4ac067a5721574">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-00047356c3e33a6ca7b6c650e91ff5a5df3b2ea8.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\aAALibV4\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3e14431bc37b4600ab1310d3252ab24cf57ca09">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-70b5ea793dc11b0ca18ade50c51bb6fd8ea048bd.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\libs\FlurryAnalytics_3.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d24d6cee64bfc688a6a306a6de04dee63b86801">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\FlurryAnalytics_3.3.0-1c33c051c9a5261c1a4db5a23fbf00e9496f683d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\gson-2.2.2-ebab29b4045f2a3632da7471eaec5b8deae7f782.jar" />
+    </item>
+    <item
+        jar="D:\Work\Crushmatic\crushmatic\build\intermediates\exploded-aar\Crushmatic\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b3063f9de1d69d269ae4ad3564ee1e81e977ee7c">
+        <dex dex="D:\Work\Crushmatic\crushmatic\build\intermediates\pre-dexed\debug\classes-b10607d551242d6e9d765423bed47036045f08c3.jar" />
+    </item>
+
+</items>

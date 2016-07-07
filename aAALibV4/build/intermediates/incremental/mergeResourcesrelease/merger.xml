@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="22.0.0"><source path="D:\Work\Crushmatic\aAALibV4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\res"/></dataSet><dataSet config="main"><source path="D:\Work\Crushmatic\aAALibV4\src\main\res"/><source path="D:\Work\Crushmatic\aAALibV4\build\generated\res\rs\release"/><source path="D:\Work\Crushmatic\aAALibV4\build\generated\res\resValues\release"/></dataSet><dataSet config="release"><source path="D:\Work\Crushmatic\aAALibV4\src\release\res"/></dataSet><mergedItems/></merger>
